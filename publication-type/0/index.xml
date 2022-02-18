@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | NVIDIA Autonomous Vehicle Research Group</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jul 2021 10:21:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Towards the Unification and Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
+      <link>/publication/bajcsy.leung.schmerling.pavone.corl2021/</link>
+      <pubDate>Fri, 30 Jul 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/bajcsy.leung.schmerling.pavone.corl2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking Trajectory Forecasting Evaluation</title>
+      <link>/publication/ivanovic.pavone.corl2021/</link>
+      <pubDate>Wed, 21 Jul 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/ivanovic.pavone.corl2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
