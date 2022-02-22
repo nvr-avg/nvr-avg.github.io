@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubham Shrivastava | NVIDIA Autonomous Vehicle Research Group</title>
+    <link>/author/shubham-shrivastava/</link>
+      <atom:link href="/author/shubham-shrivastava/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shubham Shrivastava</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Feb 2022 10:21:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Shubham Shrivastava</title>
+      <link>/author/shubham-shrivastava/</link>
+    </image>
+    
+    <item>
+      <title>Propagating State Uncertainty Through Trajectory Forecasting</title>
+      <link>/publication/ivanovic.lin.etal.icra2022/</link>
+      <pubDate>Tue, 22 Feb 2022 10:21:59 -0400</pubDate>
+      <guid>/publication/ivanovic.lin.etal.icra2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

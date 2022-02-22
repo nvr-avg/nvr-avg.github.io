@@ -5,44 +5,12 @@
     <link>/author/marco-pavone/</link>
       <atom:link href="/author/marco-pavone/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Pavone</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Oct 2021 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <url>/author/marco-pavone/avatar_hu8b3ea6bccdd8be1fe0bccb70ca245a5b_24662_270x270_fill_q90_lanczos_center.jpeg</url>
       <title>Marco Pavone</title>
       <link>/author/marco-pavone/</link>
     </image>
-    
-    <item>
-      <title>MTP: Multi-Hypothesis Tracking and Prediction for Reduced Error Propagation</title>
-      <link>/publication/weng.ivanovic.pavone.iv2022/</link>
-      <pubDate>Mon, 18 Oct 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/weng.ivanovic.pavone.iv2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Injecting Planning-Awareness into Prediction and Detection Evaluation</title>
-      <link>/publication/ivanovic.pavone.iv2022/</link>
-      <pubDate>Thu, 07 Oct 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/ivanovic.pavone.iv2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards the Unification and Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
-      <link>/publication/bajcsy.leung.schmerling.pavone.corl2021/</link>
-      <pubDate>Fri, 30 Jul 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/bajcsy.leung.schmerling.pavone.corl2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rethinking Trajectory Forecasting Evaluation</title>
-      <link>/publication/ivanovic.pavone.arxiv2021/</link>
-      <pubDate>Wed, 21 Jul 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/ivanovic.pavone.arxiv2021/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
