@@ -1,197 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/author/marco-pavone/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andrea-bajcsy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/gerry-che/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yulong-cao/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yuxiao-chen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alec-farid/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/boris-ivanovic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/peter-karkus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/karen-leung/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sushant-veer/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/apoorva-sharma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xinshuo-weng/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/danfei-xu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/0/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/boris-ivanovic/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/kris-kitani/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/marco-pavone/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ivanovic.lin.etal.icra2022/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/punarjay-chakravarty/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/richard-lin/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/chen.ivanovic.etal.arxiv2022/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/shubham-shrivastava/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/weng.ivanovic.etal.arxiv2022/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/xinshuo-weng/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yuxiao-chen/</loc>
     <lastmod>2022-02-22T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/weng.ivanovic.etal.iv2022/</loc>
     <lastmod>2021-10-18T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ivanovic.pavone.iv2022/</loc>
     <lastmod>2021-10-07T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andrea-bajcsy/</loc>
     <lastmod>2021-07-30T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/edward-schmerling/</loc>
     <lastmod>2021-07-30T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/karen-leung/</loc>
     <lastmod>2021-07-30T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/bajcsy.leung.etal.arxiv2021/</loc>
     <lastmod>2021-07-30T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ivanovic.pavone.arxiv2021/</loc>
     <lastmod>2021-07-21T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/autonomous-vehicle-research-group/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
