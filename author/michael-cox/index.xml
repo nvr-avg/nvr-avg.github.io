@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edward Schmerling | NVIDIA Autonomous Vehicle Research Group</title>
-    <link>/author/edward-schmerling/</link>
-      <atom:link href="/author/edward-schmerling/index.xml" rel="self" type="application/rss+xml" />
-    <description>Edward Schmerling</description>
+    <title>Michael Cox | NVIDIA Autonomous Vehicle Research Group</title>
+    <link>/author/michael-cox/</link>
+      <atom:link href="/author/michael-cox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Cox</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
-      <title>Edward Schmerling</title>
-      <link>/author/edward-schmerling/</link>
+      <title>Michael Cox</title>
+      <link>/author/michael-cox/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/topan.leung.etal.arxiv2022/</link>
       <pubDate>Wed, 23 Feb 2022 10:21:59 -0400</pubDate>
       <guid>/publication/topan.leung.etal.arxiv2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards the Unification and Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
-      <link>/publication/bajcsy.leung.etal.arxiv2021/</link>
-      <pubDate>Fri, 30 Jul 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/bajcsy.leung.etal.arxiv2021/</guid>
       <description></description>
     </item>
     
