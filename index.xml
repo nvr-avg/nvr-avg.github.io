@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>NVIDIA Autonomous Vehicle Research Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Feb 2022 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>NVIDIA Autonomous Vehicle Research Group</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Towards Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
+      <link>/publication/leung.bajcsy.etal.arxiv2022/</link>
+      <pubDate>Fri, 20 May 2022 10:21:59 -0400</pubDate>
+      <guid>/publication/leung.bajcsy.etal.arxiv2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interaction-Dynamics-Aware Perception Zones for Obstacle Detection Safety Evaluation</title>
-      <link>/publication/topan.leung.etal.arxiv2022/</link>
+      <link>/publication/topan.leung.etal.iv2022/</link>
       <pubDate>Wed, 23 Feb 2022 10:21:59 -0400</pubDate>
-      <guid>/publication/topan.leung.etal.arxiv2022/</guid>
+      <guid>/publication/topan.leung.etal.iv2022/</guid>
       <description></description>
     </item>
     
@@ -30,17 +38,17 @@
     
     <item>
       <title>ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning</title>
-      <link>/publication/chen.ivanovic.etal.arxiv2022/</link>
+      <link>/publication/chen.ivanovic.etal.cvpr2022/</link>
       <pubDate>Tue, 22 Feb 2022 10:21:59 -0400</pubDate>
-      <guid>/publication/chen.ivanovic.etal.arxiv2022/</guid>
+      <guid>/publication/chen.ivanovic.etal.cvpr2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whose Track Is It Anyway? Improving Robustness to Tracking Errors with Affinity-Based Prediction</title>
-      <link>/publication/weng.ivanovic.etal.arxiv2022/</link>
+      <link>/publication/weng.ivanovic.etal.cvpr2022/</link>
       <pubDate>Tue, 22 Feb 2022 10:21:59 -0400</pubDate>
-      <guid>/publication/weng.ivanovic.etal.arxiv2022/</guid>
+      <guid>/publication/weng.ivanovic.etal.cvpr2022/</guid>
       <description></description>
     </item>
     
@@ -57,14 +65,6 @@
       <link>/publication/ivanovic.pavone.iv2022/</link>
       <pubDate>Thu, 07 Oct 2021 10:21:59 -0400</pubDate>
       <guid>/publication/ivanovic.pavone.iv2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards the Unification and Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
-      <link>/publication/bajcsy.leung.etal.arxiv2021/</link>
-      <pubDate>Fri, 30 Jul 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/bajcsy.leung.etal.arxiv2021/</guid>
       <description></description>
     </item>
     
