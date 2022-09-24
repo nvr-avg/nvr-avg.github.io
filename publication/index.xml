@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>Towards Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
-      <link>/publication/leung.bajcsy.etal.arxiv2022/</link>
-      <pubDate>Fri, 20 May 2022 10:21:59 -0400</pubDate>
-      <guid>/publication/leung.bajcsy.etal.arxiv2022/</guid>
+      <title>BITS: Bi-level Imitation for Traffic Simulation</title>
+      <link>/publication/xu.chen.etal.arxiv2022/</link>
+      <pubDate>Sat, 24 Sep 2022 00:21:59 -0400</pubDate>
+      <guid>/publication/xu.chen.etal.arxiv2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Interaction-Dynamics-Aware Perception Zones for Obstacle Detection Safety Evaluation</title>
-      <link>/publication/topan.leung.etal.iv2022/</link>
-      <pubDate>Wed, 23 Feb 2022 10:21:59 -0400</pubDate>
-      <guid>/publication/topan.leung.etal.iv2022/</guid>
+      <title>Robust Trajectory Prediction against Adversarial Attacks</title>
+      <link>/publication/cao.xu.etal.corl2022/</link>
+      <pubDate>Fri, 23 Sep 2022 10:21:59 -0400</pubDate>
+      <guid>/publication/cao.xu.etal.corl2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles</title>
+      <link>/publication/karkus.ivanovic.etal.corl2022/</link>
+      <pubDate>Fri, 23 Sep 2022 09:21:59 -0400</pubDate>
+      <guid>/publication/karkus.ivanovic.etal.corl2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdvDO: Realistic Adversarial Attacks for Trajectory Prediction</title>
+      <link>/publication/cao.xiao.etal.eccv2022/</link>
+      <pubDate>Thu, 22 Sep 2022 10:21:59 -0400</pubDate>
+      <guid>/publication/cao.xiao.etal.eccv2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
+      <link>/publication/leung.bajcsy.etal.arxiv2022/</link>
+      <pubDate>Fri, 20 May 2022 10:21:59 -0400</pubDate>
+      <guid>/publication/leung.bajcsy.etal.arxiv2022/</guid>
       <description></description>
     </item>
     
@@ -49,6 +73,14 @@
       <link>/publication/weng.ivanovic.etal.cvpr2022/</link>
       <pubDate>Tue, 22 Feb 2022 10:21:59 -0400</pubDate>
       <guid>/publication/weng.ivanovic.etal.cvpr2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction-Dynamics-Aware Perception Zones for Obstacle Detection Safety Evaluation</title>
+      <link>/publication/topan.leung.etal.iv2022/</link>
+      <pubDate>Sat, 23 Oct 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/topan.leung.etal.iv2022/</guid>
       <description></description>
     </item>
     
