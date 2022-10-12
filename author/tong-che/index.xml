@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong Che | NVIDIA Autonomous Vehicle Research Group</title>
+    <link>/author/tong-che/</link>
+      <atom:link href="/author/tong-che/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong Che</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Oct 2022 00:21:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Tong Che</title>
+      <link>/author/tong-che/</link>
+    </image>
+    
+    <item>
+      <title>Robust and Controllable Object-Centric Learning through Energy-based Models</title>
+      <link>/publication/zhang.che.etal.arxiv2022/</link>
+      <pubDate>Tue, 11 Oct 2022 00:21:59 -0400</pubDate>
+      <guid>/publication/zhang.che.etal.arxiv2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
