@@ -5,20 +5,12 @@
     <link>/author/andrea-bajcsy/</link>
       <atom:link href="/author/andrea-bajcsy/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Bajcsy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Andrea Bajcsy</title>
       <link>/author/andrea-bajcsy/</link>
     </image>
-    
-    <item>
-      <title>Towards Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
-      <link>/publication/leung.bajcsy.etal.arxiv2022/</link>
-      <pubDate>Fri, 20 May 2022 10:21:59 -0400</pubDate>
-      <guid>/publication/leung.bajcsy.etal.arxiv2022/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

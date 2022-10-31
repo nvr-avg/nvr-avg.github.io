@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter Karkus | NVIDIA Autonomous Vehicle Research Group</title>
-    <link>/author/peter-karkus/</link>
-      <atom:link href="/author/peter-karkus/index.xml" rel="self" type="application/rss+xml" />
-    <description>Peter Karkus</description>
+    <title>Stefano V. Albrecht | NVIDIA Autonomous Vehicle Research Group</title>
+    <link>/author/stefano-v.-albrecht/</link>
+      <atom:link href="/author/stefano-v.-albrecht/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefano V. Albrecht</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 00:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
-      <title>Peter Karkus</title>
-      <link>/author/peter-karkus/</link>
+      <title>Stefano V. Albrecht</title>
+      <link>/author/stefano-v.-albrecht/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/christianos.karkus.etal.arxiv2022/</link>
       <pubDate>Sun, 30 Oct 2022 00:21:59 -0400</pubDate>
       <guid>/publication/christianos.karkus.etal.arxiv2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles</title>
-      <link>/publication/karkus.ivanovic.etal.corl2022/</link>
-      <pubDate>Fri, 23 Sep 2022 09:21:59 -0400</pubDate>
-      <guid>/publication/karkus.ivanovic.etal.corl2022/</guid>
       <description></description>
     </item>
     
