@@ -30,11 +30,11 @@
   </url><url>
     <loc>/author/karen-leung/</loc>
   </url><url>
+    <loc>/author/apoorva-sharma/</loc>
+  </url><url>
     <loc>/author/fan-yun-sun/</loc>
   </url><url>
     <loc>/author/sushant-veer/</loc>
-  </url><url>
-    <loc>/author/apoorva-sharma/</loc>
   </url><url>
     <loc>/author/xinshuo-weng/</loc>
   </url><url>
@@ -45,10 +45,46 @@
     <loc>/author/ziyuan-zhong/</loc>
   </url><url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2022-10-30T00:21:59-04:00</lastmod>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-10-30T00:21:59-04:00</lastmod>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/baishakhi-ray/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/danfei-xu/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/davis-rempe/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/zhong.rempe.etal.arxiv2022/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/marco-pavone/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sushant-veer/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/tong-che/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/yuxiao-chen/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/ziyuan-zhong/</loc>
+    <lastmod>2022-10-30T00:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/boris-ivanovic/</loc>
     <lastmod>2022-10-30T00:21:59-04:00</lastmod>
@@ -56,22 +92,10 @@
     <loc>/author/filippos-christianos/</loc>
     <lastmod>2022-10-30T00:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/marco-pavone/</loc>
-    <lastmod>2022-10-30T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-10-30T00:21:59-04:00</lastmod>
-  </url><url>
     <loc>/author/peter-karkus/</loc>
     <lastmod>2022-10-30T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/christianos.karkus.etal.arxiv2022/</loc>
-    <lastmod>2022-10-30T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-10-30T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2022-10-30T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/stefano-v.-albrecht/</loc>
@@ -89,9 +113,6 @@
     <loc>/author/ruixiang-zhang/</loc>
     <lastmod>2022-10-11T00:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/tong-che/</loc>
-    <lastmod>2022-10-11T00:21:59-04:00</lastmod>
-  </url><url>
     <loc>/author/yoshua-bengio/</loc>
     <lastmod>2022-10-11T00:21:59-04:00</lastmod>
   </url><url>
@@ -102,12 +123,6 @@
     <lastmod>2022-09-25T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/xu.chen.etal.arxiv2022/</loc>
-    <lastmod>2022-09-24T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/danfei-xu/</loc>
-    <lastmod>2022-09-24T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/yuxiao-chen/</loc>
     <lastmod>2022-09-24T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
@@ -141,9 +156,6 @@
     <lastmod>2022-09-23T09:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/shie-mannor/</loc>
-    <lastmod>2022-09-23T09:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sushant-veer/</loc>
     <lastmod>2022-09-23T09:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/farid.veer.etal.corl2022/</loc>
