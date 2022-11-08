@@ -5,12 +5,28 @@
     <link>/author/sushant-veer/</link>
       <atom:link href="/author/sushant-veer/index.xml" rel="self" type="application/rss+xml" />
     <description>Sushant Veer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 00:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Sushant Veer</title>
       <link>/author/sushant-veer/</link>
     </image>
+    
+    <item>
+      <title>Guided Conditional Diffusion for Controllable Traffic Simulation</title>
+      <link>/publication/zhong.rempe.etal.arxiv2022/</link>
+      <pubDate>Sun, 30 Oct 2022 00:23:59 -0400</pubDate>
+      <guid>/publication/zhong.rempe.etal.arxiv2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles</title>
+      <link>/publication/farid.veer.etal.corl2022/</link>
+      <pubDate>Fri, 23 Sep 2022 09:21:59 -0400</pubDate>
+      <guid>/publication/farid.veer.etal.corl2022/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
