@@ -5,18 +5,23 @@
     <link>/author/peter-karkus/</link>
       <atom:link href="/author/peter-karkus/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Karkus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Oct 2022 00:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Peter Karkus</title>
       <link>/author/peter-karkus/</link>
     </image>
     
+  </channel>
+</rss>
+or/peter-karkus/</link>
+    </image>
+    
     <item>
       <title>Planning with Occluded Traffic Agents using Bi-Level Variational Occlusion Models</title>
-      <link>/publication/christianos.karkus.etal.arxiv2022/</link>
-      <pubDate>Sun, 30 Oct 2022 00:21:59 -0400</pubDate>
-      <guid>/publication/christianos.karkus.etal.arxiv2022/</guid>
+      <link>/publication/christianos.karkus.etal.icra2023/</link>
+      <pubDate>Sun, 15 Jan 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/christianos.karkus.etal.icra2023/</guid>
       <description></description>
     </item>
     
