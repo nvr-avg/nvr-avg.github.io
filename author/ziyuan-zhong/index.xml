@@ -5,20 +5,12 @@
     <link>/author/ziyuan-zhong/</link>
       <atom:link href="/author/ziyuan-zhong/index.xml" rel="self" type="application/rss+xml" />
     <description>Ziyuan Zhong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Ziyuan Zhong</title>
       <link>/author/ziyuan-zhong/</link>
     </image>
-    
-    <item>
-      <title>Guided Conditional Diffusion for Controllable Traffic Simulation</title>
-      <link>/publication/zhong.rempe.etal.icra2023/</link>
-      <pubDate>Sun, 15 Jan 2023 00:21:59 -0400</pubDate>
-      <guid>/publication/zhong.rempe.etal.icra2023/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
