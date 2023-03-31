@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>NVIDIA Autonomous Vehicle Research Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2023 00:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>NVIDIA Autonomous Vehicle Research Group</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization</title>
+      <link>/publication/yang.pavone.etal.cvpr2023/</link>
+      <pubDate>Tue, 21 Mar 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/yang.pavone.etal.cvpr2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation</title>
+      <link>/publication/yang.pavone.cvpr2023/</link>
+      <pubDate>Tue, 21 Mar 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/yang.pavone.cvpr2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Autonomous Vehicle Safety Concepts from Demonstrations</title>
