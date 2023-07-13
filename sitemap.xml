@@ -6,13 +6,21 @@
   </url><url>
     <loc>/author/pasquale-antonante/</loc>
   </url><url>
+    <loc>/author/wenhao-ding/</loc>
+  </url><url>
     <loc>/author/andrea-bajcsy/</loc>
+  </url><url>
+    <loc>/author/katie-luo/</loc>
   </url><url>
     <loc>/author/yulong-cao/</loc>
   </url><url>
     <loc>/author/gerry-che/</loc>
   </url><url>
+    <loc>/author/sander-tonkens/</loc>
+  </url><url>
     <loc>/author/yuxiao-chen/</loc>
+  </url><url>
+    <loc>/author/jiawei-yang/</loc>
   </url><url>
     <loc>/author/filippos-christianos/</loc>
   </url><url>
@@ -47,10 +55,40 @@
     <loc>/author/ziyuan-zhong/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2023-03-21T00:21:59-04:00</lastmod>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-03-21T00:21:59-04:00</lastmod>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/karen-leung/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/luca-carlone/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/marco-pavone/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/pasquale-antonante/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sushant-veer/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/antonante.veer.etal.rss2023/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/xinshuo-weng/</loc>
+    <lastmod>2023-07-12T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/yang.pavone.etal.cvpr2023/</loc>
     <lastmod>2023-03-21T00:21:59-04:00</lastmod>
@@ -61,19 +99,7 @@
     <loc>/author/jiawei-yang/</loc>
     <lastmod>2023-03-21T00:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/marco-pavone/</loc>
-    <lastmod>2023-03-21T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-03-21T00:21:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/yang.pavone.cvpr2023/</loc>
-    <lastmod>2023-03-21T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-03-21T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2023-03-21T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/yue-wang/</loc>
@@ -82,13 +108,7 @@
     <loc>/author/edward-schmerling/</loc>
     <lastmod>2023-01-16T00:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/karen-leung/</loc>
-    <lastmod>2023-01-16T00:21:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/leung.veer.etal.acc2023/</loc>
-    <lastmod>2023-01-16T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sushant-veer/</loc>
     <lastmod>2023-01-16T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/baishakhi-ray/</loc>
@@ -137,9 +157,6 @@
     <lastmod>2023-01-15T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/chen.karkus.etal.icra2023/</loc>
-    <lastmod>2023-01-15T00:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/xinshuo-weng/</loc>
     <lastmod>2023-01-15T00:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/yuxiao-chen/</loc>
