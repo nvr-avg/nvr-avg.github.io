@@ -5,12 +5,76 @@
     <link>/author/karen-leung/</link>
       <atom:link href="/author/karen-leung/index.xml" rel="self" type="application/rss+xml" />
     <description>Karen Leung</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 09:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Karen Leung</title>
       <link>/author/karen-leung/</link>
     </image>
+    
+    <item>
+      <title>Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility</title>
+      <link>/publication/hsu.leung.etal.iros2023/</link>
+      <pubDate>Tue, 01 Aug 2023 09:21:59 -0400</pubDate>
+      <guid>/publication/hsu.leung.etal.iros2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Aware Risk Estimation of Perception Failures for Autonomous Vehicles</title>
+      <link>/publication/antonante.veer.etal.rss2023/</link>
+      <pubDate>Wed, 12 Jul 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/antonante.veer.etal.rss2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refining Obstacle Perception Safety Zones via Maneuver-Based Decomposition</title>
+      <link>/publication/topan.chen.etal.iv2023/</link>
+      <pubDate>Sun, 04 Jun 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/topan.chen.etal.iv2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Autonomous Vehicle Safety Concepts from Demonstrations</title>
+      <link>/publication/leung.veer.etal.acc2023/</link>
+      <pubDate>Mon, 16 Jan 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/leung.veer.etal.acc2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receding Horizon Planning with Rule Hierarchies for Autonomous Vehicles</title>
+      <link>/publication/veer.leung.etal.icra2023/</link>
+      <pubDate>Sun, 15 Jan 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/veer.leung.etal.icra2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles</title>
+      <link>/publication/farid.veer.etal.corl2022/</link>
+      <pubDate>Fri, 23 Sep 2022 09:21:59 -0400</pubDate>
+      <guid>/publication/farid.veer.etal.corl2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Data-Driven Synthesis of Autonomous Vehicle Safety Concepts</title>
+      <link>/publication/leung.bajcsy.etal.arxiv2022/</link>
+      <pubDate>Fri, 20 May 2022 10:21:59 -0400</pubDate>
+      <guid>/publication/leung.bajcsy.etal.arxiv2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction-Dynamics-Aware Perception Zones for Obstacle Detection Safety Evaluation</title>
+      <link>/publication/topan.leung.etal.iv2022/</link>
+      <pubDate>Sat, 23 Oct 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/topan.leung.etal.iv2022/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaime Fisac | NVIDIA Autonomous Vehicle Research Group</title>
+    <link>/author/jaime-fisac/</link>
+      <atom:link href="/author/jaime-fisac/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaime Fisac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 09:21:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
+      <title>Jaime Fisac</title>
+      <link>/author/jaime-fisac/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility</title>
+      <link>/publication/hsu.leung.etal.iros2023/</link>
+      <pubDate>Tue, 01 Aug 2023 09:21:59 -0400</pubDate>
+      <guid>/publication/hsu.leung.etal.iros2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

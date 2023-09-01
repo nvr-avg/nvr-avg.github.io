@@ -5,12 +5,20 @@
     <link>/author/edward-schmerling/</link>
       <atom:link href="/author/edward-schmerling/index.xml" rel="self" type="application/rss+xml" />
     <description>Edward Schmerling</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Edward Schmerling</title>
       <link>/author/edward-schmerling/</link>
     </image>
+    
+    <item>
+      <title>Refining Obstacle Perception Safety Zones via Maneuver-Based Decomposition</title>
+      <link>/publication/topan.chen.etal.iv2023/</link>
+      <pubDate>Sun, 04 Jun 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/topan.chen.etal.iv2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Autonomous Vehicle Safety Concepts from Demonstrations</title>

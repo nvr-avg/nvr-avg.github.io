@@ -5,12 +5,20 @@
     <link>/author/tong-che/</link>
       <atom:link href="/author/tong-che/index.xml" rel="self" type="application/rss+xml" />
     <description>Tong Che</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jul 2023 00:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Tong Che</title>
       <link>/author/tong-che/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning with Energy-based Models</title>
+      <link>/publication/ding.che.etal.icml2023/</link>
+      <pubDate>Sun, 23 Jul 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/ding.che.etal.icml2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Guided Conditional Diffusion for Controllable Traffic Simulation</title>

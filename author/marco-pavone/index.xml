@@ -5,7 +5,7 @@
     <link>/author/marco-pavone/</link>
       <atom:link href="/author/marco-pavone/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Pavone</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2023 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Aug 2023 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Marco Pavone</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Verification and Synthesis of Robust Control Barrier Functions: Multilevel Polynomial Optimization and Semidefinite Relaxation</title>
+      <link>/publication/kang.chen.etal.cdc2023/</link>
+      <pubDate>Wed, 02 Aug 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/kang.chen.etal.cdc2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility</title>
+      <link>/publication/hsu.leung.etal.iros2023/</link>
+      <pubDate>Tue, 01 Aug 2023 09:21:59 -0400</pubDate>
+      <guid>/publication/hsu.leung.etal.iros2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Reparameterization of Reward-Conditioned Reinforcement Learning with Energy-based Models</title>
+      <link>/publication/ding.che.etal.icml2023/</link>
+      <pubDate>Sun, 23 Jul 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/ding.che.etal.icml2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Task-Aware Risk Estimation of Perception Failures for Autonomous Vehicles</title>
       <link>/publication/antonante.veer.etal.rss2023/</link>
       <pubDate>Wed, 12 Jul 2023 10:21:59 -0400</pubDate>
       <guid>/publication/antonante.veer.etal.rss2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refining Obstacle Perception Safety Zones via Maneuver-Based Decomposition</title>
+      <link>/publication/topan.chen.etal.iv2023/</link>
+      <pubDate>Sun, 04 Jun 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/topan.chen.etal.iv2023/</guid>
       <description></description>
     </item>
     

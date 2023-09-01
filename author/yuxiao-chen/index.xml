@@ -5,12 +5,36 @@
     <link>/author/yuxiao-chen/</link>
       <atom:link href="/author/yuxiao-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuxiao Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jan 2023 00:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Aug 2023 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Yuxiao Chen</title>
       <link>/author/yuxiao-chen/</link>
     </image>
+    
+    <item>
+      <title>Verification and Synthesis of Robust Control Barrier Functions: Multilevel Polynomial Optimization and Semidefinite Relaxation</title>
+      <link>/publication/kang.chen.etal.cdc2023/</link>
+      <pubDate>Wed, 02 Aug 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/kang.chen.etal.cdc2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility</title>
+      <link>/publication/hsu.leung.etal.iros2023/</link>
+      <pubDate>Tue, 01 Aug 2023 09:21:59 -0400</pubDate>
+      <guid>/publication/hsu.leung.etal.iros2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refining Obstacle Perception Safety Zones via Maneuver-Based Decomposition</title>
+      <link>/publication/topan.chen.etal.iv2023/</link>
+      <pubDate>Sun, 04 Jun 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/topan.chen.etal.iv2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BITS: Bi-level Imitation for Traffic Simulation</title>
