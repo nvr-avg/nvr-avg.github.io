@@ -5,20 +5,12 @@
     <link>/author/kai-chieh-hsu/</link>
       <atom:link href="/author/kai-chieh-hsu/index.xml" rel="self" type="application/rss+xml" />
     <description>Kai-Chieh Hsu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 09:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Kai-Chieh Hsu</title>
       <link>/author/kai-chieh-hsu/</link>
     </image>
-    
-    <item>
-      <title>Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility</title>
-      <link>/publication/hsu.leung.etal.iros2023/</link>
-      <pubDate>Tue, 01 Aug 2023 09:21:59 -0400</pubDate>
-      <guid>/publication/hsu.leung.etal.iros2023/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
