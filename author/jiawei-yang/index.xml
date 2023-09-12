@@ -5,12 +5,20 @@
     <link>/author/jiawei-yang/</link>
       <atom:link href="/author/jiawei-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiawei Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2023 00:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Jiawei Yang</title>
       <link>/author/jiawei-yang/</link>
     </image>
+    
+    <item>
+      <title>FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization</title>
+      <link>/publication/yang.pavone.etal.cvpr2023/</link>
+      <pubDate>Tue, 21 Mar 2023 00:21:59 -0400</pubDate>
+      <guid>/publication/yang.pavone.etal.cvpr2023/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

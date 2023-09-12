@@ -5,12 +5,20 @@
     <link>/author/pasquale-antonante/</link>
       <atom:link href="/author/pasquale-antonante/index.xml" rel="self" type="application/rss+xml" />
     <description>Pasquale Antonante</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2023 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
       <title>Pasquale Antonante</title>
       <link>/author/pasquale-antonante/</link>
     </image>
+    
+    <item>
+      <title>Task-Aware Risk Estimation of Perception Failures for Autonomous Vehicles</title>
+      <link>/publication/antonante.veer.etal.rss2023/</link>
+      <pubDate>Wed, 12 Jul 2023 10:21:59 -0400</pubDate>
+      <guid>/publication/antonante.veer.etal.rss2023/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
