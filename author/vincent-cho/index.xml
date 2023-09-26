@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Danfei Xu | NVIDIA Autonomous Vehicle Research Group</title>
-    <link>/author/danfei-xu/</link>
-      <atom:link href="/author/danfei-xu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Danfei Xu</description>
+    <title>Vincent Cho | NVIDIA Autonomous Vehicle Research Group</title>
+    <link>/author/vincent-cho/</link>
+      <atom:link href="/author/vincent-cho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Cho</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_3.png</url>
-      <title>Danfei Xu</title>
-      <link>/author/danfei-xu/</link>
+      <title>Vincent Cho</title>
+      <link>/author/vincent-cho/</link>
     </image>
     
   </channel>
