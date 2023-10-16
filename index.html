@@ -746,8 +746,8 @@
     
     <h1>Welcome!</h1>
 
-    <p>Welcome to the homepage of the NVIDIA Research Autonomous Vehicle Research Group led by <a href="https://web.stanford.edu/~pavone/" target="_blank" rel="noopener">Dr. Marco Pavone</a>.</p>
-<p>We are a new team within NVIDIA Research that brings together a diverse and interdisciplinary set of researchers to address core topics in vehicle autonomy, ranging from perception and prediction to planning and control, as well as advance the state of the art in a number of critical related fields such as decision making under uncertainty, reinforcement learning, and the verification and validation of safety-critical AI systems.</p>
+    <p>Welcome to the homepage of the NVIDIA Research Autonomous Vehicle Research Group led by <a href="https://research.nvidia.com/person/marco-pavone" target="_blank" rel="noopener">Dr. Marco Pavone</a>.</p>
+<p>We are a newer team within NVIDIA Research that brings together a diverse and interdisciplinary set of researchers to address core topics in vehicle autonomy, ranging from perception and prediction to planning and control, as well as advance the state of the art in a number of critical related fields such as decision making under uncertainty, self-supervised learning, and the verification and validation of safety-critical AI systems.</p>
 <!-- Join us! We are looking to expand our team! We invite applications for the following positions:
 
 * [Research Scientist](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Research-Scientist--Autonomous-Vehicles---New-College-Grad_JR1961018-1)
@@ -1266,6 +1266,31 @@
 
     <div class="portrait-title">
       <h2><a href="/author/yue-wang/">Yue Wang</a></h2>
+      
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/chaowei-xiao/"><img class="avatar avatar-circle" src="/author/chaowei-xiao/avatar_hu3d4e3e019e4c658309060f33ec2368b0_5056232_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/chaowei-xiao/">Chaowei Xiao</a></h2>
       
       
       
@@ -1833,25 +1858,28 @@
   <div>
 
 
-    <p>Our group addresses challenges in AI-powered autonomous vehicles through a three-pronged research agenda, which, collectively, is aimed at laying the foundation for the next generation of AV autonomy stacks.</p>
+    <p>Our group addresses challenges in AI-powered autonomous vehicles through a multi-pronged research agenda which, collectively, is aimed at laying the foundation for the next generation of AV autonomy.</p>
 <ul>
 <li>
-<p><strong>Human-centered autonomy:</strong> Interaction-aware decision making for safety-critical systems: A distinctive feature of autonomous vehicles is that they will be operating alongside humans for the most part, and thus they will need to negotiate behaviors with their human counterparts. Central to this task is effectively predicting the intent of other decision-making agents, forecasting their trajectories within a scene, and leveraging these predictions for safe and interaction-aware decision making. Specifically,</p>
+<p><strong>Next-Generation AV Architectures:</strong> While modular architectures provide unparalleled reusability and interpretability, they suffer from integration challenges and information bottlenecks between modules. Accordingly, we are investigating tools and methods to design much more integrated autonomy stacks along the following axes:</p>
 <ul>
-<li>We leverage recent advances in deep learning to develop human (e.g., pedestrian) motion prediction models that are specifically attuned to the task of real-time, interaction-aware decision making and that can transfer to new settings with only a handful of location-specific data.</li>
-<li>We investigate human models for the purposes of simulation and validation and devise plausible and controllable simulation agents.</li>
-<li>We are investigating methods rooted in formal methods (e.g., reachability theory) to imbue certifiable safety when (i) planning with learning-based prediction and perception models and (ii) dealing with variability in agent behavior.</li>
+<li><em>System-level</em>, including differentiable, semi-modular, and end-to-end stacks.</li>
+<li><em>Representation-level</em>: leveraging neural and prior-augmented representations (standard-definition maps, map priors, NeRF priors, etc.).</li>
+<li><em>Component-level</em>: investigating new methods for joint prediction/planning, online mapping, neural reconstruction, and policy planning, among others.</li>
 </ul>
 </li>
 <li>
-<p><strong>Next-generation autonomy architectures:</strong> Highly integrated yet modular autonomy stacks: We advocate the use of modular architectures due to their unparalleled reusability and interpretability properties, which are especially important in a safety-critical context. At the same time, to remove information bottlenecks and harness maximum efficiency, we are investigating tools and methods to design much more integrated autonomy stacks, by exploring four main avenues: metrics that capture upstream and downstream information flows, thereby coupling the design of the different modules; more expressive and learned representations of information flows at multiple levels of the AV stack; statistical techniques for producing and propagating calibrated uncertainty measures; and algorithmic approaches to co-designing the different modules by leveraging the aforementioned coupling metrics and learned representations. The end goal is a novel, highly integrated architecture that inherits the advantages of classical decoupled designs while harnessing the benefits of end-to-end architectures.</p>
+<p><strong>AV Foundation Models:</strong> Large, generally-trained models contain a wealth of information. Harnessing such a breadth of knowledge in autonomous driving may help AVs generalize to new domains and navigate smoothly in rare scenarios. Towards this end, our group investigates <em>vision-language foundation models</em>, <em>vision-language-action modeling</em>, and <em>scene understanding in the wild</em>.</p>
 </li>
 <li>
-<p><strong>Assured autonomy:</strong> Safety assurances with machine learning models in the loop: Data-driven methods based on machine learning (ML) have enabled tasks beyond what was considered possible with their traditional, non-learning-based counterparts. However, ML-based algorithms can suffer from unpredictability and erratic behavior—a showstopper in the context of safety-critical systems. To enable the confident infusion of ML models within the decision-making loop of an autonomous vehicle, we research tools and methods for providing both offline and online algorithmic assurances for components of a learning-enabled autonomy stack. For example, we are designing run-time monitors that can detect and identify faults in ML-based components and inform downstream decision-making, and integrating learning-based components into the decision-making module in a way that allows for uncertainty reasoning and performance guarantees</p>
+<p><strong>Simulation:</strong> Simulation is paramount for accelerating AV development. Towards developing more realistic and controllable simulation enviroments, our group is pursuing <em>behavior/traffic modeling</em> to produce realistic and interactive agent motion, <em>language-based simulation generation</em> to leverage text for specifying and editing simulated scenarios, and <em>neural simulators</em> to reconstruct and simulate logged scenes and their sensor data.</p>
+</li>
+<li>
+<p><strong>AI Safety for AVs:</strong> Data-driven methods based on ML have enabled tasks beyond what was considered possible with their traditional, non-learning-based counterparts. However, ML-based algorithms can suffer from unpredictability and erratic behavior. To enable the confident infusion of ML models within the decision-making loop of an autonomous vehicle, we research tools and methods for providing both offline and online algorithmic assurances for components of a learning-enabled autonomy stack, including <em>uncertainty quantification and calibration</em>, <em>online monitoring of AI components</em>, <em>rule reasoning in neural architectures</em>, and <em>validation (safety KPIs, evaluation, etc.)</em>.</p>
 </li>
 </ul>
-<p>In pursuit of these research agenda, we leverage and combine expertise from a number of fields, including optimal control, decision-making, reinforcement learning, deep learning, machine learning, robotics, computer vision, and formal methods.</p>
-<p>Our research efforts are enriched by a close collaboration with NVIDIA’s AV product team.</p>
+<p>In pursuit of this research agenda, we leverage and combine expertise from a number of fields, including optimal control, decision-making, reinforcement learning, deep learning, machine learning, robotics, computer vision, and formal methods.</p>
+<p>Our research efforts are enriched by close collaborations with NVIDIA&rsquo;s AV product teams.</p>
 
 
     
